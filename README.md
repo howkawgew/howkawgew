@@ -3,3 +3,6 @@
 Hours coded since 21 April, 2022 
 
 [![wakatime](https://wakatime.com/badge/user/fbdc1559-14df-4e03-b6ed-ae7a263ae76f.svg)](https://wakatime.com/@fbdc1559-14df-4e03-b6ed-ae7a263ae76f)
+
+#digital drugs
+[![digital drugs](https://img.shields.io/discord/828683007635488809)](https://discord.gg/XYS43z7vj2)

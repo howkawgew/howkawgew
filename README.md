@@ -10,19 +10,15 @@ Hours coded since 21 April, 2022
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/peeeposad)
 
 
-### s t a c k
+### mostly i write discord bots, with 
 [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-[![django](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://t.me/peeeposad)
-[![flask](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://t.me/peeeposad)
+
+and [disnake](https://disnake.dev/)
 
 
 ### l e a r n i n g
 [![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://t.me/peeeposad)
 [![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://t.me/peeeposad)
-
-## very usful statistcs!!!!
-[![cpp](https://github-readme-stats.vercel.app/api?username=howkawgew&theme=blue-green)](https://t.me/peeeposad)
-
 
 
 

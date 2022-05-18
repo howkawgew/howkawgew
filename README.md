@@ -21,5 +21,6 @@ and [disnake](https://disnake.dev/)
 [![cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://t.me/peeeposad)
 
 
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=howkawgew&count_private=true&show_icons=true&theme=radical&hide_border=true" />
 
 
